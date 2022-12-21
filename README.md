@@ -13,8 +13,7 @@ In this lab I scanned a virtual machine for vulnerabilities with Nessus. I then 
 
 <h2>Operating Systems</h2>
 
-- Windows 10 (VM)
-- Windows 11 (host)
+- Windows 10
 
 <h2>Overview</h2>
 
