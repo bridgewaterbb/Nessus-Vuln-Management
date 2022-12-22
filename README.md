@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Jw99vuJ.png" height="50%" width="50%" alt="All Seeing Eye"/>
+<img src="https://i.imgur.com/YZIYBLv.png" alt="Nessus"/>
 </p>
 
 <h1>Vulnerability Scanning and Management with Nessus</h1>
